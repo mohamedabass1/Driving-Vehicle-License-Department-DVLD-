@@ -64,33 +64,7 @@ The application follows a structured 3-layer architecture:
 * Custom reusable controls
 * Real-time validation and error handling
 
----
 
-## 📷 Screenshots
-
-### 🔐 Login Screen
-![Test](./images/login.png)
-
-### 🏠 Main Screen
-![Main Screen](images/mainscreen.png)
-
-### 📋 Manage Local Applications
-![Manage Applications](images/manage-local-app.png)
-
-### 👁️ Schedule Vision Test
-![Vision Test](images/vision-test.png)
-
-### 📝 Take Test
-![Take Test](images/take-test.png)
-
-### 🪪 License Information
-![License Info](images/license-info.png)
-
-### 🚫 Detain Driving License
-![Detain License](images/detain-license.png)
-
-### ✅ Release Detained License
-![Release License](images/release-license.png)
 ---
 
 ## ⚙️ Technologies Used
@@ -129,7 +103,9 @@ The application follows a structured 3-layer architecture:
 
 * Improve UI/UX design
 * Add reporting system
-* Enhance security (password hashing)
 * Add notifications system
-
 ---
+
+## 👨‍💻 Links:
+
+🔗 LinkedIn: https://www.linkedin.com/in/your-profile
