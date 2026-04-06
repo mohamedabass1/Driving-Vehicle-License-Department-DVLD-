@@ -104,5 +104,8 @@ The application follows a structured 3-layer architecture:
 * Improve UI/UX design
 * Add reporting system
 * Add notifications system
-
 ---
+
+## 👨‍💻 Links:
+
+🔗 LinkedIn: https://www.linkedin.com/in/your-profile
