@@ -13,7 +13,6 @@ namespace DVLD.Applications
         {
             InitializeComponent();
             Theme.Apply(this);
-            // ThemeEngine.Apply(this);
         }
 
         private void frmAddNewInertnationalDrivingLicense_Load(object sender, EventArgs e)

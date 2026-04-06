@@ -14,14 +14,13 @@ namespace DVLD.Application_Type
         public frmUpdateApplicationType(int ApplicationTypeID)
         {
             InitializeComponent();
-            // ApplyUpdateApplicationTypeTheme();
+            ApplyUpdateApplicationTypeTheme();
             _ApplicationTypeID = ApplicationTypeID;
 
         }
 
         private void frmUpdateApplicationType_Load(object sender, EventArgs e)
         {
-            ThemeManager.ApplyTheme(this);
 
             lblID.Text = _ApplicationTypeID.ToString();
             ApplicationType = clsApplicationType.Find(_ApplicationTypeID);

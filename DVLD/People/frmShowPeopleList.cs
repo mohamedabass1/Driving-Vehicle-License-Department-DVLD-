@@ -11,7 +11,7 @@ namespace DVLD
         public frmShowPeopleList()
         {
             InitializeComponent();
-            //ApplyPeopleListTheme();
+            ApplyPeopleListTheme();
         }
 
         DataView PeopleDataView;
@@ -27,7 +27,6 @@ namespace DVLD
         }
         private void frmManagePeople_Load(object sender, EventArgs e)
         {
-            ThemeManager.ApplyTheme(this);
 
             _RefreshPeopleList();
             cbFillter.SelectedIndex = 0;

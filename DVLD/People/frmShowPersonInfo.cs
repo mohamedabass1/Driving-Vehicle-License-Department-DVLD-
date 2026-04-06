@@ -9,7 +9,7 @@ namespace DVLD
         public frmShowPersonInfo(int PersonID)
         {
             InitializeComponent();
-            // ApplyModernStyle();
+            ApplyModernStyle();
 
             ctrlPersonCard1.LoadPersonInfo(PersonID);
         }
@@ -28,7 +28,6 @@ namespace DVLD
 
         private void ctrlPersonCard1_Load(object sender, EventArgs e)
         {
-            ThemeManager.ApplyTheme(this);
 
         }
 

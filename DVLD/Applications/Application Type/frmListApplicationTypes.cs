@@ -13,12 +13,11 @@ namespace DVLD
         public frmListApplicationTypes()
         {
             InitializeComponent();
-            //ApplyApplicationTypesTheme();
+            ApplyApplicationTypesTheme();
         }
 
         private void frmListApplicationTypes_Load(object sender, EventArgs e)
         {
-            ThemeManager.ApplyTheme(this);
             dt_ApplicationTypes = clsApplicationType.GetAllApplicationTypes();
             dgvApplicationTypes.DataSource = dt_ApplicationTypes;
 
