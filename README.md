@@ -69,7 +69,7 @@ The application follows a structured 3-layer architecture:
 ## 📷 Screenshots
 
 ### 🔐 Login Screen
-![Login](images/login.png)
+![Test](./images/login.png)
 
 ### 🏠 Main Screen
 ![Main Screen](images/mainscreen.png)
