@@ -120,7 +120,7 @@ namespace DVLD
         private void detainLicenseToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Form frm = new frmDetainLicense();
-            frm.Show();
+            frm.ShowDialog();
         }
 
         private void releaseDetainedLicenseToolStripMenuItem_Click(object sender, EventArgs e)
