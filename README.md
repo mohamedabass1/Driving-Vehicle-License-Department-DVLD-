@@ -103,7 +103,6 @@ The application follows a structured 3-layer architecture:
 
 * Improve UI/UX design
 * Add reporting system
-* Enhance security (password hashing)
 * Add notifications system
 
 ---
